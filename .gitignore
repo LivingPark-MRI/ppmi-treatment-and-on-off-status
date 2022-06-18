@@ -1,0 +1,4 @@
+.ppmi_config
+**.ipynb_checkpoints/
+**.csv
+data/
